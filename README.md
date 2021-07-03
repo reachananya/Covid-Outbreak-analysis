@@ -3,14 +3,15 @@
 
 # Covid-Outbreak-analysis
 <h1 Covid-Outbreak-analysis </h1>
-<p align="center">
-  <h3>The line plot visualises the total number of confirmed cases in India till yesterday. For the line plot, the dataset that we have on coronavirus is maintained at Johns        Hopkins University which gets according to the US time.
+<h3>The line plot visualises the total number of confirmed cases in India till yesterday. For the line plot, the dataset that we have on coronavirus is maintained at Johns        Hopkins University which gets according to the US time.
+  <p align="center">
+    <img src="Covid-Outbreak-analysis/img/Screenshot 2021-07-03 063832.jpg" width="900" height="500">
   </p>
-  ![Screenshot 2021-07-03 063832](https://user-images.githubusercontent.com/48484581/124339689-d13ac380-dbcd-11eb-9331-81e73b51222c.jpg)
-
-  ###
 
 
 
 <h3>The map depicts the total confirmed cases in India starting from January 22, 2020. The date given here is in the MM/DD/YY format</h3>
-![Screenshot 2021-07-03 064455](https://user-images.githubusercontent.com/48484581/124339801-7c4b7d00-dbce-11eb-9a0f-ab608556a8fa.jpg)
+<p align="center">
+    <img src="Covid-Outbreak-analysis/img/Screenshot 2021-07-03 064455.jpg" width="900" height="500">
+  </p>
+  
