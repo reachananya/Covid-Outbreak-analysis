@@ -1,8 +1,8 @@
 # Covid-Outbreak-analysis
 <h1 Covid-Outbreak-analysis </h1>
-The line plot visualises the total number of confirmed cases in India till yesterday. For the line plot, the dataset that we have on coronavirus is maintained at Johns Hopkins University which gets according to the US time.
+<h3>The line plot visualises the total number of confirmed cases in India till yesterday. For the line plot, the dataset that we have on coronavirus is maintained at Johns Hopkins University which gets according to the US time.
 <p align="center">
-  <img src="Covid-Outbreak-analysis/img/Screenshot 2021-07-03 064455.jpg"  width="900" height="500"/>
+  <img src="Covid-Outbreak-analysis/img/Screenshot 2021-07-03 064455.jpg"  width="900" height="500"/></h3>
 </p>
 
 
